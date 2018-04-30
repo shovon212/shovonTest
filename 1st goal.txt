@@ -1,0 +1,1 @@
+This is our 1st goal. We have to learn git nicely. Need a very clear concept
